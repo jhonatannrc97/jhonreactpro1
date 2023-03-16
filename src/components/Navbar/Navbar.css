@@ -1,0 +1,14 @@
+.Navbar{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #cf0808;
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+
+
+
